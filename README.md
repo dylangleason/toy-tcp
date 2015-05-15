@@ -1,6 +1,6 @@
 # toy-tcp
 
-A Clojure TCP app that demonstrates basic Client-Server communication for a computer networks class.
+A Clojure TCP app that can be configured as a client, server or middleware.
 
 ### Requirements ###
 
