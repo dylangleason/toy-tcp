@@ -14,16 +14,16 @@ Once Java is installed, the easiest way to build the project and get going is wi
 
 ## Usage
 
-To run cadence from the command line, do the following:
+To run toy-tcp from the command line, do the following:
 
 ```
-$ cd ~/path/to/cadence && lein run -m tcp.core [argument]
+$ cd ~/path/to/toy-tcp && lein run -m tcp.core [argument]
 ```
 
 Alternatively, you can package cadence as a JAR file and execute it that way:
 
 ```
-$ cd ~/path/to/cadence && lein uberjar
+$ cd ~/path/to/toy-tcp && lein uberjar
 $ java -jar target/tcp-0.1.0-SNAPSHOT-standalone.jar [argument]
 ```
 
